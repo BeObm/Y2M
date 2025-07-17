@@ -1,0 +1,14 @@
+Train: Train.txt
+names:
+  0: Erica tetralix
+  1: calluna
+  2: empetrum
+  3: grass
+  4: lichens
+  5: myrica
+  6: nonveg
+  7: rosa_rugosa
+  8: salix
+  9: trees
+  10: moss
+path: .

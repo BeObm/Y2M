@@ -1,0 +1,792 @@
+[
+  {
+    "image_path": "input_data\\images1\\image (1)_part1.jpg",
+    "image_name": "image (1)_part1.jpg",
+    "annotation_path": "input_data\\labels\\image (1)_part1.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 4
+  },
+  {
+    "image_path": "input_data\\images1\\image (1)_part2.jpg",
+    "image_name": "image (1)_part2.jpg",
+    "annotation_path": "input_data\\labels\\image (1)_part2.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      10
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "num_objects": 5
+  },
+  {
+    "image_path": "input_data\\images1\\image (1)_part3.jpg",
+    "image_name": "image (1)_part3.jpg",
+    "annotation_path": "input_data\\labels\\image (1)_part3.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "multilabel_vector": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 5
+  },
+  {
+    "image_path": "input_data\\images1\\image (1)_part4.jpg",
+    "image_name": "image (1)_part4.jpg",
+    "annotation_path": "input_data\\labels\\image (1)_part4.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      10
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "num_objects": 5
+  },
+  {
+    "image_path": "input_data\\images1\\image (10)_part1.jpg",
+    "image_name": "image (10)_part1.jpg",
+    "annotation_path": "input_data\\labels\\image (10)_part1.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 3
+  },
+  {
+    "image_path": "input_data\\images1\\image (10)_part3.jpg",
+    "image_name": "image (10)_part3.jpg",
+    "annotation_path": "input_data\\labels\\image (10)_part3.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 3
+  },
+  {
+    "image_path": "input_data\\images1\\image (10)_part4.jpg",
+    "image_name": "image (10)_part4.jpg",
+    "annotation_path": "input_data\\labels\\image (10)_part4.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 3
+  },
+  {
+    "image_path": "input_data\\images1\\image (100)_part1.jpg",
+    "image_name": "image (100)_part1.jpg",
+    "annotation_path": "input_data\\labels\\image (100)_part1.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      10
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "num_objects": 2
+  },
+  {
+    "image_path": "input_data\\images1\\image (100)_part2.jpg",
+    "image_name": "image (100)_part2.jpg",
+    "annotation_path": "input_data\\labels\\image (100)_part2.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 3
+  },
+  {
+    "image_path": "input_data\\images1\\image (100)_part3.jpg",
+    "image_name": "image (100)_part3.jpg",
+    "annotation_path": "input_data\\labels\\image (100)_part3.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 2
+  },
+  {
+    "image_path": "input_data\\images1\\image (100)_part4.jpg",
+    "image_name": "image (100)_part4.jpg",
+    "annotation_path": "input_data\\labels\\image (100)_part4.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 1
+  },
+  {
+    "image_path": "input_data\\images1\\image (102)_part2.jpg",
+    "image_name": "image (102)_part2.jpg",
+    "annotation_path": "input_data\\labels\\image (102)_part2.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 3
+  },
+  {
+    "image_path": "input_data\\images1\\image (102)_part3.jpg",
+    "image_name": "image (102)_part3.jpg",
+    "annotation_path": "input_data\\labels\\image (102)_part3.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 4
+  },
+  {
+    "image_path": "input_data\\images1\\image (102)_part4.jpg",
+    "image_name": "image (102)_part4.jpg",
+    "annotation_path": "input_data\\labels\\image (102)_part4.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 4
+  },
+  {
+    "image_path": "input_data\\images1\\image (103)_part1.jpg",
+    "image_name": "image (103)_part1.jpg",
+    "annotation_path": "input_data\\labels\\image (103)_part1.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      4
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 2
+  },
+  {
+    "image_path": "input_data\\images1\\image (103)_part3.jpg",
+    "image_name": "image (103)_part3.jpg",
+    "annotation_path": "input_data\\labels\\image (103)_part3.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      4
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 3
+  },
+  {
+    "image_path": "input_data\\images1\\image (105)_part3.jpg",
+    "image_name": "image (105)_part3.jpg",
+    "annotation_path": "input_data\\labels\\image (105)_part3.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 3
+  },
+  {
+    "image_path": "input_data\\images1\\image (11)_part3.jpg",
+    "image_name": "image (11)_part3.jpg",
+    "annotation_path": "input_data\\labels\\image (11)_part3.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 2
+  },
+  {
+    "image_path": "input_data\\images1\\image (11)_part4.jpg",
+    "image_name": "image (11)_part4.jpg",
+    "annotation_path": "input_data\\labels\\image (11)_part4.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 3
+  },
+  {
+    "image_path": "input_data\\images1\\image (113)_part1.jpg",
+    "image_name": "image (113)_part1.jpg",
+    "annotation_path": "input_data\\labels\\image (113)_part1.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      2,
+      10,
+      3
+    ],
+    "multilabel_vector": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "num_objects": 3
+  },
+  {
+    "image_path": "input_data\\images1\\image (122)_part1.jpg",
+    "image_name": "image (122)_part1.jpg",
+    "annotation_path": "input_data\\labels\\image (122)_part1.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      10
+    ],
+    "multilabel_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "num_objects": 1
+  },
+  {
+    "image_path": "input_data\\images1\\image (94)_part4.jpg",
+    "image_name": "image (94)_part4.jpg",
+    "annotation_path": "input_data\\labels\\image (94)_part4.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      9,
+      10
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "num_objects": 6
+  },
+  {
+    "image_path": "input_data\\images1\\image (96)_part1.jpg",
+    "image_name": "image (96)_part1.jpg",
+    "annotation_path": "input_data\\labels\\image (96)_part1.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 3
+  },
+  {
+    "image_path": "input_data\\images1\\image (96)_part2.jpg",
+    "image_name": "image (96)_part2.jpg",
+    "annotation_path": "input_data\\labels\\image (96)_part2.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      10
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "num_objects": 5
+  },
+  {
+    "image_path": "input_data\\images1\\image (98)_part1.jpg",
+    "image_name": "image (98)_part1.jpg",
+    "annotation_path": "input_data\\labels\\image (98)_part1.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 3
+  },
+  {
+    "image_path": "input_data\\images1\\image (98)_part3.jpg",
+    "image_name": "image (98)_part3.jpg",
+    "annotation_path": "input_data\\labels\\image (98)_part3.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      10,
+      1,
+      2,
+      3
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "num_objects": 4
+  },
+  {
+    "image_path": "input_data\\images1\\image (98)_part4.jpg",
+    "image_name": "image (98)_part4.jpg",
+    "annotation_path": "input_data\\labels\\image (98)_part4.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      3,
+      1,
+      10,
+      2
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "num_objects": 4
+  },
+  {
+    "image_path": "input_data\\images1\\image (99)_part1.jpg",
+    "image_name": "image (99)_part1.jpg",
+    "annotation_path": "input_data\\labels\\image (99)_part1.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 3
+  },
+  {
+    "image_path": "input_data\\images1\\image (99)_part2.jpg",
+    "image_name": "image (99)_part2.jpg",
+    "annotation_path": "input_data\\labels\\image (99)_part2.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "num_objects": 3
+  },
+  {
+    "image_path": "input_data\\images1\\image (99)_part4.jpg",
+    "image_name": "image (99)_part4.jpg",
+    "annotation_path": "input_data\\labels\\image (99)_part4.txt",
+    "width": 2736,
+    "height": 1824,
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      10
+    ],
+    "multilabel_vector": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "num_objects": 5
+  }
+]

@@ -1,0 +1,14 @@
+Training Data Format:
+Each line: image_name class0 class1 ... classN
+
+Position 0: Erica tetralix
+Position 1: calluna
+Position 2: empetrum
+Position 3: grass
+Position 4: lichens
+Position 5: myrica
+Position 6: nonveg
+Position 7: rosa_rugosa
+Position 8: salix
+Position 9: trees
+Position 10: moss
